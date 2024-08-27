@@ -1,0 +1,39 @@
+{
+  "id": "13050a51-995a-4189-8a10-a262c2c25319",
+  "name": "Currency Tool",
+  "publisher": "FUW Consulting",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "b745478f-65a5-4f6a-afb4-3f9db48c1d69",
+      "name": "MFT Core",
+      "publisher": "NAV-Vision",
+      "version": "1.0.0.526"
+    }
+  ],  
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
